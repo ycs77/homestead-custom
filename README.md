@@ -1,1 +1,1 @@
-# homestead-custom
+# Laravel Homestead customizations
