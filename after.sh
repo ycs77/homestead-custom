@@ -26,7 +26,7 @@
 #sudo apt-get install -y nodejs
 
 if [ ! -f /usr/local/extra_homestead_software_installed ]; then
-	echo 'installing some extra software'
+    echo 'installing some extra software'
 
     # super user
     sudo -s
